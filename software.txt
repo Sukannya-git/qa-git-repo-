@@ -7,3 +7,7 @@ Design
 Edited thi file
 
 Change some UI/UX design
+
+Developement
+
+Testing
