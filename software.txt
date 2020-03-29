@@ -7,3 +7,6 @@ Design
 Edited thi file
 
 Change some UI/UX design
+
+Fixed Some issues
+
